@@ -1,0 +1,14 @@
+langchain-groq
+langchain-community
+langchain-core
+transformers
+langchain
+python-dotenv
+streamlit
+unstructured
+tiktoken
+faiss-cpu
+libmagic
+python-magic
+python-magic-bin
+
