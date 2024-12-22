@@ -17,7 +17,7 @@ load_dotenv()
 
 
 
-st.title("Uttu Baba: News Research Tool 📈")
+st.title("News Research Tool 📈")
 st.sidebar.title("News Article URLs")
 
 urls = []
